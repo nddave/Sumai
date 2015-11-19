@@ -59,6 +59,4 @@
 	(let [rank (rank-maker (count (user-input-vec)) (logic-calc) (count happy-vector))]
 	(cond
 		(> rank 0.4) (tweet user-text)
-		:else (println "\nLOL, go out, have more fun; You can have a better day!\n")
-		))
-	)
+		:else (println "\nLOL, go out, have more fun; You can have a better day!\n"))))
