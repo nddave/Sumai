@@ -13,7 +13,7 @@ To get started with sumai, just use Leinengen (or any other program) to run it.
 
 Once you run it will ask you a question, demanding for a response.
 
-> $ How was your day? : 
+> How was your day? : 
 
 And based on your response, it will generate a "happiness rank", to determine your happiness. And if your "happiness rank" is more thank 40%, it will automatically tweet the code on your twitter.
 
