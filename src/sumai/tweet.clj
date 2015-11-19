@@ -28,10 +28,10 @@
    (twitter.callbacks.protocols SyncSingleCallback)))
 
 ;; Defining all twitter developer credentials.
-(def my-creds (make-oauth-creds "W2Z276uiPDFfIHVbLupDycpGw"
-                                "DFSQJAL0rR5ekykzdJKuypmnC5MXpz51fWE66Kow6uV0v7SS2s"
-                                "2149229791-8GGHxOTOvTPnHxItlakbAIquW6vvb3SoiEpTtcL"
-                                "zC0nvuWhTjQQ9Nwa1E6vfDqj2R7edrw7PhNiTCo8WqnRV"))
+(def my-creds (make-oauth-creds *app-consumer-key*
+                                *app-consumer-secret*
+                                *user-access-token*
+                                *user-access-token-secret*))
 
 ;; Defining a code to send a tweet to your twitter account using your developer credentials defined in "my-creds".
 (defn tweet [status]
