@@ -1,7 +1,7 @@
 Sumai
 =======
 
-![alt tag](http://4.bp.blogspot.com/-iiMa8-PV5G4/Vk0pxgVKW1I/AAAAAAAACRM/9_ekJYSbd8s/s1600/sumai.png)
+![alt tag](https://raw.githubusercontent.com/nddave/Sumai/master/Sumai.png)
 
 An artificially intelligent emotion detector that ranks your "happiness" based on your responses to its question. If your response is "happy" enough; it will automatically tweet your experience to share it with the world.
 
