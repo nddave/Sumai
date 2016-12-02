@@ -17,7 +17,7 @@ Once you run it will ask you a question, demanding for a response.
 
 And based on your response, it will generate a "happiness rank", to determine your happiness. And if your "happiness rank" is more thank 40%, it will automatically tweet the code on your twitter. Checkout [core.clj](https://github.com/nddave/Sumai/blob/master/src/sumai/core.clj) to know more about how the rank is determined.
 
-# License information
+# License information ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
